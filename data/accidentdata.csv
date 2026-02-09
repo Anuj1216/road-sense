@@ -1,0 +1,13 @@
+date,time,location,lat,lon,weather,visibility,road_type,vehicles_involved,severity
+2023-06-12,18:30,Biratnagar Bus Park,26.4521,87.2718,Rain,Low,Urban,2,High
+2023-06-15,09:10,Hatkhola Chowk,26.4615,87.2789,Clear,High,Urban,1,Low
+2023-07-02,21:45,Main Highway Itahari,26.6633,87.2747,Fog,Low,Highway,3,High
+2023-07-10,14:20,Biratnagar Airport Road,26.4850,87.2866,Clear,High,Urban,2,Medium
+2023-07-22,19:05,Traffic Chowk,26.4567,87.2699,Rain,Medium,Urban,1,Medium
+2023-08-01,23:10,Itahari Bypass,26.6588,87.2791,Fog,Low,Highway,4,High
+2023-08-05,08:40,Ghantaghar Chowk,26.4540,87.2701,Clear,High,Urban,1,Low
+2023-08-12,17:55,Main Highway Itahari,26.6633,87.2747,Rain,Low,Highway,3,High
+2023-08-15,22:30,Main Highway Itahari,26.6633,87.2747,Fog,Low,Highway,4,High
+2023-08-16,23:10,Itahari Bypass,26.6588,87.2791,Rain,Low,Highway,5,High
+2023-08-18,21:50,Main Highway Itahari,26.6633,87.2747,Fog,Low,Highway,3,High
+2023-08-20,20:40,Itahari Bypass,26.6588,87.2791,Rain,Low,Highway,4,High

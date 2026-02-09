@@ -3,3 +3,5 @@ python-docx
 nltk 
 scikit-learn 
 flask
+streamlit
+pandas
